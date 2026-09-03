@@ -1,4 +1,92 @@
 cv:
+  name: André Nicolet
+  label: Professor of Electronics, Optronics and Systems (PREX1)
+  email: andre.nicolet@fresnel.fr
+  location: Marseille, France
+  image: ""
+  summary: Computational electromagnetism and photonics — finite-element modeling, transformation optics, and quasi-normal mode analysis of open, dispersive nanophotonic structures.
+
+  social_networks:
+    - network: GitHub
+      username: andre-nicolet
+
+  address:
+    street: Faculté des Sciences de Saint-Jérôme, Avenue Escadrille Normandie-Niemen
+    city: Marseille
+    region: Provence-Alpes-Côte d'Azur
+    postalCode: "13397"
+    countryCode: FR
+
+  sections:
+    Education:
+      - institution: University of Liège
+        location: Liège, Belgium
+        area: Applied Sciences
+        studyType: PhD (Highest Distinction)
+        start_date: 1987
+        end_date: 1991
+        highlights:
+          - "Thesis: Modeling of the magnetic field in systems including nonlinear media"
+
+      - institution: Université d'Aix-Marseille III
+        location: Marseille, France
+        area: Electronics, Optronics and Systems (63rd section)
+        studyType: Habilitation à Diriger des Recherches (HDR)
+        start_date: 1996
+        end_date: 1996
+
+      - institution: University of Liège
+        location: Liège, Belgium
+        area: Electrical Engineering (Electronics)
+        studyType: Civil Engineer Degree (Highest Distinction)
+        start_date: 1979
+        end_date: 1984
+
+    Experience:
+      - company: Institut Fresnel (CNRS UMR 7249), Aix-Marseille Université
+        position: Professor, Classe Exceptionnelle (PREX1)
+        location: Marseille, France
+        start_date: 1996
+        end_date: Present
+        summary: Founder and head (2015-2019) of the ATHENA research team. Member of Institut Fresnel since 2000.
+        highlights:
+          - Transformation optics, metamaterials, and invisibility cloaking
+          - Quasi-normal mode (QNM) analysis of dispersive photonic structures
+          - Finite-element methods for microstructured optical fibers
+
+      - company: Ecole Supérieure d'Ingénieurs de Marseille (ESIM)
+        position: Head of the Electrotechnics and Power Electronics Department
+        location: Marseille, France
+        start_date: 1994
+        end_date: 1996
+
+      - company: University of Liège
+        position: Research Engineer
+        location: Liège, Belgium
+        start_date: 1984
+        end_date: 1994
+
+    Awards:
+      - title: Prix S.R.B.E. (Société Royale Belge des Electriciens)
+        awarder: Société Royale Belge des Electriciens
+        date: 1992
+        summary: Awarded for the doctoral thesis on magnetic field modeling in nonlinear media.
+
+    Skills:
+      - name: Computational electromagnetism
+        keywords: "Finite element method, Whitney/edge elements, GetDP, Gmsh, ONELAB, boundary elements, exterior calculus"
+      - name: Numerical eigenvalue solving
+        keywords: "SLEPc, nonlinear eigenvalue problems, quasi-normal modes"
+
+    Languages:
+      - name: French
+        summary: Native speaker
+      - name: English
+        summary: Fluent
+      - name: Dutch
+        summary: Good comprehension
+      - name: German
+        summary: Beginnercv:
   name: Albert Einstein
   label: Scientist
   email: einstein@example.com
