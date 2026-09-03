@@ -2,14 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Current courses and past teaching experience.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### Current courses
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Fundamentals in Optics** — M1 Europhotonics (Erasmus Mundus), since 2010
+- **Mathematics for Physics** — L2 Physics, since 2012
+- **EDO 1 / GEP 1** — Master MSPP (AMU / Université Cheikh Anta Diop, Dakar), since 2020
+- **Formal Tools for Physics** — L1, flipped-classroom format, since 2024
 
-{% include courses.liquid %}
+I also co-founded the international, interdisciplinary Master in Modeling of Systems and Physical Phenomena (MSPP) with AMU and UCAD Dakar in 2018.
