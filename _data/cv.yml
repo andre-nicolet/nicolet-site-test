@@ -1,7 +1,6 @@
 cv:
   name: André Nicolet
   label: Professor of Electronics, Optronics and Systems (PREX1)
-  email: andre.nicolet@fresnel.fr
   location: Marseille, France
   image: ""
   summary: Computational electromagnetism and photonics — finite-element modeling, transformation optics, and quasi-normal mode analysis of open, dispersive nanophotonic structures.

@@ -29,6 +29,21 @@ My research lies at the crossroads of computational electromagnetism and photoni
 
 Alongside research, I teach electromagnetism and applied mathematics, from undergraduate courses to the Erasmus Mundus M1 Europhotonics programme and the Master MSPP, which I co-founded with colleagues at Université Cheikh Anta Diop (Dakar). I also sit on the advisory board of Ghost Space SRL, a deep-tech startup developing stray-light correction for space-based optics.
 
+<script>
+  // The email address is assembled in the browser so that it does not appear in the page source.
+  document.addEventListener("DOMContentLoaded", function () {
+    var user = ["andre", "nicolet"].join(".");
+    var domain = ["fresnel", "fr"].join(".");
+    var icons = document.querySelector(".contact-icons");
+    if (!icons) return;
+    var link = document.createElement("a");
+    link.href = "mailto:" + user + "@" + domain;
+    link.title = "Email";
+    link.innerHTML = '<i class="fa-solid fa-envelope"></i>';
+    icons.insertBefore(link, icons.firstChild);
+  });
+</script>
+
 ### Off the clock
 
 <div class="row justify-content-center mt-3">
