@@ -31,12 +31,11 @@ Alongside research, I teach electromagnetism and applied mathematics, from under
 
 ### Off the clock
 
-<div class="row mt-3">
-  <div class="col-sm-5 mb-3">
-    <img src="{{ '/assets/img/canyon.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="André Nicolet sitting on the edge of a red sandstone canyon" loading="lazy">
+<div class="row justify-content-center mt-3">
+  <div class="col-12">
+    <img src="{{ '/assets/img/canyon.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="André Nicolet sitting on the edge of an overhanging red sandstone cliff above a wooded gorge" loading="lazy">
   </div>
-  <div class="col-sm-7">
-    <p><em>Au bord du gouffre</em> — on the edge of the abyss, which is also a fair description of some numerical computations.</p>
-    <p>A few of my favourite pictures are collected on my old photo blog, <a href="https://andrefavphotos.blogspot.com/">Photos André</a>.</p>
-  </div>
+</div>
+<div class="caption">
+  <em>Au bord du gouffre</em> — on the edge of the abyss, which is also a fair description of some numerical computations.
 </div>
